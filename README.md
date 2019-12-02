@@ -8,8 +8,8 @@ to option prices is here:
 [Volatility Explanation](https://www.investopedia.com/ask/answers/062415/how-does-implied-volatility-impact-pricing-options.asp)
 
 # Install
-The jupyter notebook is found in the FILES.  The notebook is written in Python 3.  With FILES there are also 5 csv files as example
-data to use within the code.  The code has functions that process and merge all 5 csv files.  
+The jupyter notebook is found in the FILES.  The notebook is written in Python 3.  Within FILES there are also 5 csv files as example
+data to use within the code.  The code has functions that process and merge all 5 csv files.  Download the csv files and set them to the appropriate variables within the notebook.  Run the notebook.  
 
 # Contributing
 Volatility-Predictors was written by Matthew Aronowitz
